@@ -24,7 +24,9 @@ Key features of the program:
    8. Configurable program settings, including default parameters and displayed month.
    9. Ability to choose expense categories.
    10. Utilization of the efficient SQLite database, ensuring smooth operation and a portable format for stored data.
+
 Video https://tinyurl.com/23et2cew
+
 PL:
 Przedstawiam swój najnowszy program stworzony w Delfi 11
 Program do obliczania wydatków to narzędzie umożliwiające skrupulatne monitorowanie wydatków. Program cechuje się prostym interfejsem, który umożliwia bieżące podliczanie wydatków zarówno na poziomie miesięcznym, jak i dziennym. Ponadto, użytkownik ma możliwość wyboru dowolnego miesiąca, co skutkuje posortowaniem listy wydatków w wybranym okresie.
@@ -44,7 +46,9 @@ Prosty interfejs użytkownika umożliwiający łatwą obsługę programu.
     7. Konfigurowalne ustawienia programu, w tym parametry domyślne i wyświetlany miesiąc.
     8. Możliwość wyboru kategorii dla wydatków.
     9. Wykorzystanie wydajnej bazy danych SQLite, zapewniającej płynną pracę i przenośny format przechowywanych danych.
+    
 Wideo https://tinyurl.com/23et2cew
+
 RU:
 Представляю свою новую программу, созданную в Delfi 11. Программа для расчета расходов - это инструмент, позволяющий тщательно отслеживать расходы.
 Программа отличается простым интерфейсом, который позволяет непрерывно подсчитывать расходы как ежемесячно, так и по дням. Кроме того, пользователь может выбрать любой месяц,
@@ -64,4 +68,5 @@ RU:
     8. Настройки программы, включая параметры по умолчанию и отображаемый месяц.
     9. Возможность выбора категории для расходов.
     10. Использование эффективной базы данных SQLite, обеспечивающей плавную работу и переносимый формат хранения данных.
+
 Видео https://tinyurl.com/23et2cew
