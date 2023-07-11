@@ -25,7 +25,7 @@ Key features of the program:
    9. Ability to choose expense categories.
    10. Utilization of the efficient SQLite database, ensuring smooth operation and a portable format for stored data.
 
-Video https://tinyurl.com/23et2cew
+Video https://tinyurl.com/29k6tdl8
 
 PL:
 Przedstawiam swój najnowszy program stworzony w Delfi 11
@@ -47,7 +47,7 @@ Prosty interfejs użytkownika umożliwiający łatwą obsługę programu.
     8. Możliwość wyboru kategorii dla wydatków.
     9. Wykorzystanie wydajnej bazy danych SQLite, zapewniającej płynną pracę i przenośny format przechowywanych danych.
     
-Wideo https://tinyurl.com/23et2cew
+Wideo https://tinyurl.com/29k6tdl8
 
 RU:
 Представляю свою новую программу, созданную в Delfi 11. Программа для расчета расходов - это инструмент, позволяющий тщательно отслеживать расходы.
@@ -69,4 +69,4 @@ RU:
     9. Возможность выбора категории для расходов.
     10. Использование эффективной базы данных SQLite, обеспечивающей плавную работу и переносимый формат хранения данных.
 
-Видео https://tinyurl.com/23et2cew
+Видео https://tinyurl.com/29k6tdl8
