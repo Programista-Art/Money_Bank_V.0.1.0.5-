@@ -14,16 +14,16 @@ The program utilizes the efficient SQLite database, ensuring smooth operation an
 
 Key features of the program:
 
-    Simple user interface for easy program operation.
-    Calculation of expenses on both a monthly and daily level.
-    Ability to select any month, resulting in expense list sorting.
-    Presence of a calendar for tracking expenses on specific days.
-    Adding, deleting, and editing rows in the database.
-    Ability to open a new database and load an existing database.
-    Performing data backups for safeguarding against data loss.
-    Configurable program settings, including default parameters and displayed month.
-    Ability to choose expense categories.
-    Utilization of the efficient SQLite database, ensuring smooth operation and a portable format for stored data.
+   1. Simple user interface for easy program operation.
+   2. Calculation of expenses on both a monthly and daily level.
+   3. Ability to select any month, resulting in expense list sorting.
+   4. Presence of a calendar for tracking expenses on specific days.
+   5. Adding, deleting, and editing rows in the database.
+   6. Ability to open a new database and load an existing database.
+   7. Performing data backups for safeguarding against data loss.
+   8. Configurable program settings, including default parameters and displayed month.
+   9. Ability to choose expense categories.
+   10. Utilization of the efficient SQLite database, ensuring smooth operation and a portable format for stored data.
 
 PL:
 Przedstawiam swój najnowszy program stworzony w Delfi 11
@@ -34,6 +34,7 @@ W ustawieniach programu dostępne są różne opcje konfiguracyjne, takie jak us
 Program wykorzystuje wydajną bazę danych SQLite, co gwarantuje płynne działanie i umożliwia przechowywanie danych w niewielkim, przenośnym formacie.
 Najważniejsze cechy programu
 Prosty interfejs użytkownika umożliwiający łatwą obsługę programu.
+
     1. Podliczanie wydatków zarówno na poziomie miesięcznym, jak i dziennym.
     2. Możliwość wyboru dowolnego miesiąca, co skutkuje sortowaniem listy wydatków.
     3. Obecność kalendarza umożliwiającego śledzenie wydatków z konkretnych dni.
@@ -52,6 +53,7 @@ RU:
 пользователь может открыть новую базу, загрузить существующую базу данных и создать резервную копию данных. В настройках программы доступны различные параметры конфигурации, 
 такие как установка параметров по умолчанию, выбор отображаемого месяца, выбор категории и установка базы данных по умолчанию, которая будет автоматически открываться при запуске приложения. 
 Программа использует эффективную базу данных SQLite, что обеспечивает плавную работу и позволяет хранить данные в компактном и переносимом формате. Основные особенности программы:
+
     1. Простой интерфейс пользователя, обеспечивающий легкую работу с программой.
     2. Подсчет расходов как ежемесячно, так и по дням.
     3. Возможность выбора любого месяца, что приводит к сортировке списка расходов.
